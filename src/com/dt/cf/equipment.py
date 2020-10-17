@@ -4,7 +4,7 @@ Created on Oct 17, 2020
 @author: GoldenSource
 '''
 
-class BaseCard(object):
+class Equipment(object):
     '''
     classdocs
     '''
@@ -15,8 +15,9 @@ class BaseCard(object):
         Constructor
         '''
         
+        
 
-class Punch(BaseCard):
+class Weapon(object):
     '''
     classdocs
     '''
@@ -27,9 +28,9 @@ class Punch(BaseCard):
         Constructor
         '''
         
+        
 
-
-class Kick(BaseCard):
+class Armor(object):
     '''
     classdocs
     '''
@@ -40,4 +41,4 @@ class Kick(BaseCard):
         Constructor
         '''
         
-
+        

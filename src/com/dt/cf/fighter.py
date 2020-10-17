@@ -14,4 +14,53 @@ class Apprentice(object):
         '''
         Constructor
         '''
-        
+      
+
+
+class Warrior(Apprentice):
+    '''
+    classdocs
+    '''
+
+
+    def __init__(self, params):
+        '''
+        Constructor
+        '''
+      
+
+
+class Wizard(Apprentice):
+    '''
+    classdocs
+    '''
+
+
+    def __init__(self, params):
+        '''
+        Constructor
+        '''
+      
+class Hunter(Apprentice):
+    '''
+    classdocs
+    '''
+
+
+    def __init__(self, params):
+        '''
+        Constructor
+        '''
+      
+
+class Assassin(Apprentice):
+    '''
+    classdocs
+    '''
+
+
+    def __init__(self, params):
+        '''
+        Constructor
+        '''
+      

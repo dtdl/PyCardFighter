@@ -15,3 +15,42 @@ class BattleField(object):
         Constructor
         '''
         
+
+class DuelField(BattleField):
+    '''
+    classdocs
+    '''
+
+
+    def __init__(self, params):
+        '''
+        Constructor
+        '''
+        
+
+
+class Team2Field(BattleField):
+    '''
+    classdocs
+    '''
+
+
+    def __init__(self, params):
+        '''
+        Constructor
+        '''
+        
+
+
+class Team3Field(BattleField):
+    '''
+    classdocs
+    '''
+
+
+    def __init__(self, params):
+        '''
+        Constructor
+        '''
+        
+
