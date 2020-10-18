@@ -1,0 +1,21 @@
+player1:
+   name: David
+   points:
+      healthPoint: 100
+   cardset:
+      card1: Kick
+      card2: Kick
+      card3: Punch
+      card4: Punch
+      card5: Punch
+
+player2:
+   name: Vivian
+   points:
+      healthPoint: 100
+   cardset:
+      card1: Kick
+      card2: Kick
+      card3: Punch
+      card4: Punch
+      card5: Punch
